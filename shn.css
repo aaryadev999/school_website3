@@ -1,0 +1,50 @@
+body {
+    text-align: center;
+}
+
+.nav navbar-nav {
+    list-style: none;
+    position: fixed;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    z-index: 10;
+
+}
+
+#popup {
+    color: skyblue;
+    background-color: darkgreen;
+}
+
+#video {
+    height: 500px;
+    width: 800px;
+}
+
+#principal_pic {
+    height: 250;
+    width: 250;
+}
+
+#about {
+    color: aliceblue;
+}
+
+#abt_p {
+    color: black;
+}
+
+.movie_head {
+    padding: 6px 22px;
+    display: inline-block;
+    width: 75%;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    font-size: 20px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.img1{
+    width: 250px;
+}
